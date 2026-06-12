@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+chroma_db/
+CLAUDE.local.md
+.claude/settings.local.json
